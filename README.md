@@ -22,7 +22,7 @@ Describes the differences in ride-sharing data among the different city types.
 
 ### Deliverable 2:
 
-Describes fare rates among differnt city types betwee 01/01/2019 & 04/28/2019.
+Describes fare rates among different city types between 01/01/2019 & 04/28/2019.
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/93845867/151289380-6d5bb759-39ba-41c9-9e13-dd3ae1d4b68c.png)
 
