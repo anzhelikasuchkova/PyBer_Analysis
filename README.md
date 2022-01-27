@@ -6,7 +6,7 @@ This is a report that summarizes how the data differs by city type and how those
 ## Resources:
 - Data Source: city_data.csv
 - Data Source: ride_data.csv
-- Sofware: Jupyter Notebook 6.4.5
+- Software: Jupyter Notebook 6.4.5
 - Library: Pandas
 - Library: Matplotlib
 - Language: Python 3.9.7
