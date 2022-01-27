@@ -16,9 +16,11 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 
 ### Deliverable 1:
 
-![Pyber_fare_summary](https://user-images.githubusercontent.com/93845867/151289380-6d5bb759-39ba-41c9-9e13-dd3ae1d4b68c.png)
+
 
 ### Deliverable 2:
+
+![Pyber_fare_summary](https://user-images.githubusercontent.com/93845867/151289380-6d5bb759-39ba-41c9-9e13-dd3ae1d4b68c.png)
 
 ## Summary:
 
