@@ -12,9 +12,11 @@ This is a report that summarizes how the data differs by city type and how those
 - Language: Python 3.9.7
 
 ## Results: 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+
 
 ### Deliverable 1:
+
+DescribeS the differences in ride-sharing data among the different city types.
 
 <img width="536" alt="Screen Shot 2022-01-26 at 8 58 04 PM" src="https://user-images.githubusercontent.com/93845867/151289534-031d3b89-3a48-4375-8160-2d0afcf63253.png">
 
