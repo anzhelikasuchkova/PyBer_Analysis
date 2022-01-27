@@ -20,7 +20,8 @@ Describes the differences in ride-sharing data among the different city types.
 
 <img width="536" alt="Screen Shot 2022-01-26 at 8 58 04 PM" src="https://user-images.githubusercontent.com/93845867/151289534-031d3b89-3a48-4375-8160-2d0afcf63253.png">
 
-- Urban city type has the **highest number of rides and drivers**. 
+- Urban cities have the **highest number of rides and drivers**. 
+- Rural cities have the **highest average fair per ride and per driver**.
 
 ### Deliverable 2:
 
